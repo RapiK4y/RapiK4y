@@ -14,5 +14,6 @@
 
 <a href="https://discord.gg/VCeEhE7yxS" target="_blank"><img src="https://img.shields.io/badge/스갤모드번역-5865F2?style=flat-square&logo=Discord&logoColor=FFFFFF"/></a> 
 <a href="https://drive.google.com/drive/folders/1J6Y5s7_PbvxAGFL-8MzrWlO5rjYEdCjb?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/모드한글파일-4285F4?style=flat-square&logo=Google Drive&logoColor=FFFFFF"/></a>
+<a href="https://crowdin.com/project/stevepapago" target="_blank"><img src="https://img.shields.io/badge/Crowdin-2E3340?style=flat-square&logo=Crowdin&logoColor=FFFFFF"/></a>
 <br>
 If you came for requesting mod translation, Contact here : Discord - Rapi_Kay#0075
