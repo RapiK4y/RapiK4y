@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## 평범한 취미생활용
+### 한 때는 개발자를 꿈꾸었던, 지금은 사관생도를 꿈꾸는 사람의 공간
 <!--
 **RapiK4y/RapiK4y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
