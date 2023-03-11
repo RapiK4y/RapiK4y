@@ -5,7 +5,7 @@
 - The space of a man who dreamed of becoming a developer, and now dreams of becoming a cadet
 ### Who? 🙋‍♂️
 - 2004년 8월 16일 | 공군사관학교를 위해 공부하는 누추한 학생
-- 08.16.2004 | Student for Republic Of Korea Air Force Academy cadet
+- 08.16.2004 | A Student for Republic Of Korea Air Force Academy cadet
 ### What for? 💻
 - 간단한 코딩
 - 마인크래프트 모드 번역
