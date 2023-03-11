@@ -12,4 +12,4 @@
 - Simple Code
 - Minecraft Mod translation For Korean
 
-<a href="https://discord.gg/VCeEhE7yxS" target="_blank"><img src="https://img.shields.io/badge/SteveGalleryModTranslation-5865F2?style=flat-square&logo=Discord&logoColor=FFFFFF"/></a>
+<a href="https://discord.gg/VCeEhE7yxS" target="_blank"><img src="https://img.shields.io/badge/스갤모드번역-5865F2?style=flat-square&logo=Discord&logoColor=FFFFFF"/></a>
