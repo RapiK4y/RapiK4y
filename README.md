@@ -12,4 +12,4 @@
 - Simple Code
 - Minecraft Mod translation For Korean
 <br>
-If you came for requesting mod translation, Contact here : Discord - kimdaejung
+Contact : Discord - kimdaejung
